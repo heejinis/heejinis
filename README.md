@@ -3,19 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 # HEEJIN LIM🖐️
 
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
-
 # 📖 About me
 
-- [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
-- [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
-- [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
-  - [🧩 Badges ](#-badges-)
-  - [🛠️ Widgets ](#%EF%B8%8F-widgets-)
-  - [✅ Icons ](#-icons-)
-  - [⚙️ Profile Generator ](#%EF%B8%8F-profile-generator-)
-  - [😉 Emojis ](#-emojis)
-- [Give A Star ⭐](#give-a-star-)
+- [📌 https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f580298ba9ed71229ce0f4?pvs=4
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
