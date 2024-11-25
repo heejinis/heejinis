@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 # HEEJIN LIM🖐️
 
-# 📖 LIMHEEJIN Portfolio
+# 📖 Portfolio
 
 - 📌 https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f580298ba9ed71229ce0f4?pvs=4
 
@@ -11,7 +11,7 @@
 
 - [🔗 3rd Project Repository](https://github.com/heejinis/3rd-Project)
   
-
+# ✨ Stack
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
