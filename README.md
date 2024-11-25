@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,3&height=300&text=Heejin%20Profile&fontSize=70&fontColor=FFFFFF&fontAlign=50&desc=>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=Heejin%20Profile&fontSize=70&fontColor=FFFFFF&fontAlign=50&desc=Tech%20Enthusiast%20and%20Creative%20Mind&descSize=30&descAlign=50&descAlignY=70&textBg=true&animation=fadeIn" />
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
