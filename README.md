@@ -1,12 +1,11 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
-# Hello friends 🖐️
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+# HEEJIN LIM🖐️
 
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
-# 📖 Table of Contents
+# 📖 About me
 
 - [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
 - [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
