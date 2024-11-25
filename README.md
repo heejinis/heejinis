@@ -1,9 +1,9 @@
-# HEEJIN LIM😃
+![image](https://github.com/user-attachments/assets/a0254e05-137b-43f6-b853-1f2799cdab85)# HEEJIN LIM😃
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 # 📖 About me
 
-- 📌 [Portfolio](https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f580298ba9ed71229ce0f4)  <!-- 단축된 링크 -->
+- 📌 [Portfolio](https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1496ed1688f5805c9de1fc639ab0e7d1?pvs=4)  <!-- 단축된 링크 -->
 
 # 📁 Project
 - [🔗 3차 Project Notion](https://link_to_3rd_project)
