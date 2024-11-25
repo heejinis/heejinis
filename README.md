@@ -7,7 +7,7 @@
 
 - 📌 https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f580298ba9ed71229ce0f4?pvs=4
 - 📁 Project
-[🔗 3rd Project Repository](https://github.com/heejinis/3rd-Project)
+- [🔗 3rd Project Repository](https://github.com/heejinis/3rd-Project)
   
 
 
