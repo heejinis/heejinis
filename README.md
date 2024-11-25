@@ -6,9 +6,9 @@
 - 📌 [Portfolio](https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f580298ba9ed71229ce0f4)  <!-- 단축된 링크 -->
 
 # 📁 Project
-- [🔗 1차 Project Notion](https://link_to_1st_project)
-- [🔗 2차 Project Notion](https://link_to_2nd_project)
 - [🔗 3차 Project Notion](https://link_to_3rd_project)
+- [🔗 2차 Project Notion](https://link_to_2nd_project)
+- [🔗 1차 Project Notion](https://link_to_1st_project)
 - 
 # ✨ Stack
 
