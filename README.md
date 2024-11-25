@@ -9,7 +9,8 @@
 - [🔗 3차 Project Notion](https://link_to_3rd_project)
 - [🔗 2차 Project Notion](https://link_to_2nd_project)
 - [🔗 1차 Project Notion](https://link_to_1st_project)
-- 
+
+  
 # ✨ Stack
 
 <!--내용 부분-->
