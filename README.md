@@ -7,8 +7,8 @@
 
 # 📁 Project
 - [🔗 3차 Project Notion](https://hypnotic-raclette-78e.notion.site/3-1486ed1688f581ab88e8e7eb1e130f17?pvs=4)
-- [🔗 2차 Project Notion](https://link_to_2nd_project)
-- [🔗 1차 Project Notion](https://link_to_1st_project)
+- [🔗 2차 Project Notion](https://hypnotic-raclette-78e.notion.site/2-1466ed1688f5802eba1be6895b649abd?pvs=4)
+- [🔗 1차 Project Notion](https://hypnotic-raclette-78e.notion.site/1-1486ed1688f5804fb9edf3bc8a8ff3a0?pvs=4)
 
   
 # ✨ Stack
