@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20heejin%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 # 📖 About me
 
-- 📌 [Portfolio](https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-Portfolio-1-1496ed1688f5804e925af466806c0427?pvs=4)  <!-- 단축된 링크 -->
+- 📌 [Portfolio](https://hypnotic-raclette-78e.notion.site/LIMHEEJIN-14b6ed1688f580389b2bc2d132f6ea5f?pvs=4)  <!-- 단축된 링크 -->
 
 # 📁 Project
 - [🔗 3차 Project Notion](https://hypnotic-raclette-78e.notion.site/3-1486ed1688f581ab88e8e7eb1e130f17?pvs=4)
